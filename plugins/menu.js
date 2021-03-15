@@ -86,17 +86,17 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │• Online : *%uptime*
 │• Total User : *%totalreg nomor*
 │
-│• YouTube : RC047
-│• Instagram : @rendycraft047
-│• FaceBook : RendyCraft
+│• YouTube : junaedi indra saputra
+│• Instagram : junaediiii7_
+│• FaceBook : junaedi indra
 │• GitHub :
-│https://github.com/RC047/Kuhong-V4
-│• Nomor Bot :
-│wa.me/62895337278647
+│https://GakPunyaGithub
+│• Nomor Owner :
+│wa.me/62895605030379
 ╰────
 
 ╭─「 Jadwal Aktif 」
-│• 08:00 - 22:00
+│• 24 jam
 ╰────
 
 ╭─「 Rules Bot 」
