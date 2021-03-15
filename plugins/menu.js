@@ -3,7 +3,7 @@ let ftype = require('file-type');
 let { getBuffer, succes } = require('/data/data/com.termux/files/home/Kuhong-V4/lib/functions.js');
 let fs = require ('fs')
 let path = require('path')
-let handler  = async (m, { conn, usedPrefix: _p }) => {
+let handler  = async (m, { conn, usedPrefix: _# }) => {
   try {
 
     let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
