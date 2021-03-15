@@ -15,11 +15,11 @@ let info = `
 │
 │> Donasi :
 │• SAWERIA :
-│https://saweria.co/donate/RC047
-│• OVO [+62895337278647]
-│• TRI [+62895337278647]
-│• DANA [+62895337278647]
-│• GOPAY [+62895337278647]
+│https://saweria.co/donate/junaediindra
+│• OVO [+62895605030379]
+│• TRI [+62895605030379]
+│• DANA [+62895605030379]
+│• GOPAY [+62895605030379]
 ╰────
 `.trim()
 
