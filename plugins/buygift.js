@@ -13,9 +13,9 @@ let handler = async m => m.reply(`
 │
 │ > Pembayaran :
 │• Saweria :
-│https://saweria.co/RC047
+│https://saweria.co/junaediindra
 │• Pulsa (TRI) :
-│+62895337278647
+│+62895605030379
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['buygift']
